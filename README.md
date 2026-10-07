@@ -17,6 +17,7 @@ https://api.inkfree.app/core/inkfree/mcp/
 
 | | |
 | --- | --- |
+| Documentation | https://inkfree.app/docs/mcp/ |
 | Transport | Streamable HTTP |
 | Authentication | OAuth 2.1 with PKCE and dynamic client registration (sign in with Inkfree) |
 | Tools | 32 ([full list](docs/tools.md)) |

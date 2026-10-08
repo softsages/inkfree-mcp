@@ -47,6 +47,11 @@ https://api.inkfree.app/core/inkfree/mcp/
 - "Who viewed the Acme MSA envelope and when?"
 - "How many envelopes did we send and complete last month, by template?"
 
+## Listings
+
+- [Official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=app.inkfree/mcp) as `app.inkfree/mcp`
+- [Smithery](https://smithery.ai/servers/softsages/inkfree)
+
 ## Connect your client
 
 ### Claude (claude.ai, desktop and mobile)
@@ -110,8 +115,9 @@ register itself.
 - The client receives a short-lived access token scoped to your account. Every tool call acts as
   you and only sees envelopes and templates you can see in Inkfree.
 - Scopes advertised: `mcp:read`, `mcp:write`, `mcp:send`.
-- Every tool carries MCP annotations. Read tools are marked read-only. Sending and voiding envelopes
-  are marked destructive, so well-behaved clients ask you to confirm before running them.
+- Every tool carries MCP annotations. Read tools are marked read-only. Sending, resending, voiding,
+  deleting and revoking a share are marked destructive, and tools that email signers are marked
+  open-world, so well-behaved clients ask you to confirm before running them.
 - To disconnect, remove the connector in your client.
 
 ## Privacy and security

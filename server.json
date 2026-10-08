@@ -3,10 +3,10 @@
   "name": "app.inkfree/mcp",
   "title": "Inkfree",
   "description": "E-signatures: send, track, remind, void and download envelopes; templates and reports.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://www.inkfree.app/",
   "repository": {
-    "url": "https://github.com/__GITHUB_ORG__/inkfree-mcp",
+    "url": "https://github.com/softsages/inkfree-mcp",
     "source": "github"
   },
   "remotes": [

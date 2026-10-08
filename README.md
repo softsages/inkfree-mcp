@@ -4,6 +4,8 @@
 
 # Inkfree MCP Server
 
+[![Inkfree MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/app.inkfree/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.inkfree/mcp)
+
 Connect Claude, ChatGPT, Cursor, VS Code and other MCP clients to your Inkfree e-signature account.
 Ask your assistant what is waiting on signatures, send an envelope from a template, chase a signer,
 pull the audit trail, or download the completed document.
@@ -51,6 +53,7 @@ https://api.inkfree.app/core/inkfree/mcp/
 
 - [Official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=app.inkfree/mcp) as `app.inkfree/mcp`
 - [Smithery](https://smithery.ai/servers/softsages/inkfree)
+- [Glama](https://glama.ai/mcp/connectors/app.inkfree/mcp)
 
 ## Connect your client
 

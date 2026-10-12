@@ -34,7 +34,7 @@ Access levels:
 
 | Tool | Access | What it does |
 | --- | --- | --- |
-| `mcp_inkfree_sign_request_delete` | Write (destructive) | Permanently delete an Inkfree envelope or an empty envelope folder. |
+| `mcp_inkfree_sign_request_delete` | Write (destructive) | Permanently delete a DRAFT envelope or an empty envelope folder. |
 | `mcp_inkfree_sign_request_move` | Write | Move an Inkfree envelope or folder into a different folder. |
 | `mcp_inkfree_sign_request_rename` | Write | Rename an Inkfree envelope or folder. |
 | `mcp_inkfree_sign_requests_folder_create` | Write | Create a new folder for organizing Inkfree envelopes. |
@@ -52,7 +52,7 @@ Access levels:
 
 | Tool | Access | What it does |
 | --- | --- | --- |
-| `mcp_inkfree_report_templates` | Read | Get a per-template usage report for a date range: envelopes sent and completed per template. |
+| `mcp_inkfree_report_templates` | Read | Get a per-template usage report: envelopes sent and completed per template. |
 | `mcp_inkfree_template_delete` | Write (destructive) | Permanently delete an Inkfree template or an empty template folder. |
 | `mcp_inkfree_template_move` | Write | Move an Inkfree template or folder into a different folder. |
 | `mcp_inkfree_template_rename` | Write | Rename an Inkfree template or folder. |

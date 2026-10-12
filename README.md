@@ -104,6 +104,33 @@ with the URL `https://api.inkfree.app/core/inkfree/mcp/` and authentication **OA
 }
 ```
 
+### Cline
+
+In the Cline panel open **MCP Servers** > **Configure** > **Remote Servers**, then add:
+
+- **Server Name:** `inkfree`
+- **Server URL:** `https://api.inkfree.app/core/inkfree/mcp/`
+- **Transport Type:** Streamable HTTP
+
+Or edit `cline_mcp_settings.json` directly (**Configure** > **Configure MCP Servers**):
+
+```json
+{
+  "mcpServers": {
+    "inkfree": {
+      "type": "streamableHttp",
+      "url": "https://api.inkfree.app/core/inkfree/mcp/",
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}
+```
+
+Sign in with your Inkfree account when Cline opens the browser. If the server shows an
+authentication error, remove it and add it again to restart the sign-in. Setup notes written for
+Cline itself are in [llms-install.md](llms-install.md).
+
 ### Any other MCP client
 
 Use the URL with Streamable HTTP transport. The server answers unauthenticated requests with

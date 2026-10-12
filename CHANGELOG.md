@@ -2,6 +2,10 @@
 
 Changes to the hosted Inkfree MCP server that affect connected clients.
 
+## 2026-10-12
+
+- Docs: added Cline setup (README section and `llms-install.md`).
+
 ## 1.0.1 - 2026-10-08
 
 - Registry entry now links this repository.

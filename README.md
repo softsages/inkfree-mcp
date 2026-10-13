@@ -61,7 +61,7 @@ https://api.inkfree.app/core/inkfree/mcp/
 - [MCP Server Spot](https://www.mcpserverspot.com/servers/inkfree)
 - [MCP Marketplace](https://mcp-marketplace.io/server/app-inkfree-mcp)
 - [AgentShare](https://agentshare.dev/registry?q=inkfree)
-- [Cursor Directory](https://cursor.directory/)
+- [Cursor Directory](https://cursor.directory/plugins/inkfree)
 
 ## Connect your client
 

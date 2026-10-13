@@ -56,6 +56,12 @@ https://api.inkfree.app/core/inkfree/mcp/
 - [Smithery](https://smithery.ai/servers/softsages/inkfree)
 - [Glama](https://glama.ai/mcp/connectors/app.inkfree/mcp)
 - [mcpi](https://mcpi.app/servers/inkfree) (connection status and client compatibility)
+- [Awesome Remote MCP Servers](https://github.com/punkpeye/awesome-remote-mcp-servers)
+- [mcpservers.org](https://mcpservers.org/servers/inkfree-app)
+- [MCP Server Spot](https://www.mcpserverspot.com/servers/inkfree)
+- [MCP Marketplace](https://mcp-marketplace.io/server/app-inkfree-mcp)
+- [AgentShare](https://agentshare.dev/registry?q=inkfree)
+- [Cursor Directory](https://cursor.directory/)
 
 ## Connect your client
 

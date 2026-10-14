@@ -6,6 +6,7 @@
 
 [![Inkfree MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/app.inkfree/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/app.inkfree/mcp)
 [![Inkfree MCP status on mcpi](https://mcpi.app/servers/inkfree/badge.svg)](https://mcpi.app/servers/inkfree)
+[![Indexed on TensorBlock MCP Index](https://mcp-index.tensorblock.co/v1/servers/github-softsages-inkfree-mcp-ecd79cec/badge.svg)](https://tensorblock.co/mcp/servers/github-softsages-inkfree-mcp-ecd79cec)
 
 Connect Claude, ChatGPT, Cursor, VS Code and other MCP clients to your Inkfree e-signature account.
 Ask your assistant what is waiting on signatures, send an envelope from a template, chase a signer,
@@ -63,6 +64,7 @@ https://api.inkfree.app/core/inkfree/mcp/
 - [AgentShare](https://agentshare.dev/registry?q=inkfree)
 - [Cursor Directory](https://cursor.directory/plugins/inkfree)
 - [LobeHub](https://lobehub.com/mcp/softsages-inkfree-mcp)
+- [TensorBlock MCP Index](https://tensorblock.co/mcp/servers/github-softsages-inkfree-mcp-ecd79cec)
 
 ## Connect your client
 
